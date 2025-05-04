@@ -39,14 +39,7 @@ I'm a creative front-end developer in training with a foundation in **graphic de
 
 ---
 
-## 📈 GitHub Stats
 
-<p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=radical" />
-</p>
-
----
 
 ### 📫 Let’s Connect!
 
