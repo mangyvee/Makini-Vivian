@@ -45,7 +45,7 @@ I'm a creative front-end developer in training with a foundation in **graphic de
 
 <p>
   <a href="https://linkedin.com/in/vivianmakini"><img src="https://img.shields.io/badge/LinkedIn-vivianmakini-blue?logo=linkedin&style=flat-square" /></a>
-  <a href="mailto:youremail@example.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat-square" /></a>
+  <a href="mailto:makinivivian@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-red?logo=gmail&style=flat-square" /></a>
   <a href="https://twitter.com/yourhandle"><img src="https://img.shields.io/badge/Twitter-@yourhandle-1DA1F2?logo=twitter&style=flat-square" /></a>
 </p>
 
